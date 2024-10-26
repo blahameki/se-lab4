@@ -1,0 +1,3 @@
+# Create a loaded ship that can only shoot with secondary
+GT4500,10,1,10,0
+TORPEDO,ALL  # can fire secondary
