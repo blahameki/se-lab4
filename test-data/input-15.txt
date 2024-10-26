@@ -1,0 +1,4 @@
+# Create a loaded ship that can't miss 
+GT4500,10,0,0,0
+TORPEDO,SINGLE  # fire successfully
+TORPEDO,SINGLE  # fire successfully
