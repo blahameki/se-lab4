@@ -1,0 +1,3 @@
+# Create a loaded ship that can only shoot with primary
+GT4500,10,0,10,1
+TORPEDO,ALL  # fire successfully
